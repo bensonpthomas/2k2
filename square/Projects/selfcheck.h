@@ -1,0 +1,1 @@
+extern void self_check (void);

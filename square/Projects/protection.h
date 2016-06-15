@@ -1,0 +1,1 @@
+extern void protection_chk (void);
